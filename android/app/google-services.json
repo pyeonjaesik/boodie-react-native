@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371949094972",
+    "project_id": "boodie-1566650392737",
+    "storage_bucket": "boodie-1566650392737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371949094972:android:12fe85fe291b2f33739b39",
+        "android_client_info": {
+          "package_name": "com.yomencity.boodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371949094972-jiteo6677d9ehlviagkdcmie6gqpu9ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeE4KCQJ3QgClnO1LhlaBAkXorQp5VR_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371949094972-jiteo6677d9ehlviagkdcmie6gqpu9ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
